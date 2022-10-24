@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Example1Cycle4BG11</string>
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="text_welcome">Welcome</string>
+    <string name="user">Luis Fernando</string>
+    <string name="title_introduction">Introduction</string>
+    <string name="text_introduction">Android Studio is the official Integrated Development Environment (IDE) for Android app development, based on IntelliJ IDEA. On top of IntelliJs powerful code editor and developer tools, Android Studio offers even more features that enhance your productivity when building Android apps, such as:</string>
+    <string name="properties">Tool windows</string>
+    <string name="text_properties">Instead of using preset perspectives, Android Studio follows your context and automatically brings up relevant tool windows as you work. By default, the most commonly used tool windows are pinned to the tool window bar at the edges of the application window.</string>
+    <string name="messagepassword">Invalidate Password</string>
+    <string name="messageusername">Invalidate username</string>
+</resources>
